@@ -1,0 +1,62 @@
+body
+{color:darkblue;
+text-align: center;
+}    
+/* for all the words in the body */
+
+p{
+    color: black;
+    border: 2px solid;
+}
+/* for the words written in paragraph (card) */
+
+.parent{
+    width: 50%;
+    border: 5px solid blue;
+    float: left;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 17vw;
+    object-fit: cover;
+}
+/* size of the images in the card */
+
+.row_1{
+    border: 2px solid;
+    padding: 10px;;
+    
+}
+/* for padding and border on social media links */
+
+.col-md-8{
+
+    padding-top: 2%;
+    border: transparent;
+    
+    
+}
+
+.col-md-4{
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.co1{
+    text-align: center;
+}
+/* strong points text alignment */
+
+.div-111{
+    background-attachment: fixed;
+    background-color:darkblue;
+}
+
+.co1{
+    color:white;
+}
+
+
+
+
